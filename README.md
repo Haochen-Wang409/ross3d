@@ -1,4 +1,4 @@
-# Ross: Reconstructive Visual Instruction Tuning
+# Ross3D: Reconstructive Visual Instruction Tuning with 3D-Awareness
 
 [[Project Page](https://haochen-wang409.github.io/ross3d/)] [[Model Zoo](https://huggingface.co/HaochenWang/)]
 
