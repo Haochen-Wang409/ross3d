@@ -11,15 +11,15 @@
 [Zhaoxiang Zhang](https://scholar.google.com/citations?user=qxWfV6cAAAAJ).
 
 > **Abstract.** 
-> The rapid development of Large Multimodal Models (LMMs) for 2D images and videos has spurred efforts to  
-> adapt these models for interpreting 3D scenes. 
+> The rapid development of Large Multimodal Models (LMMs) for 2D images and videos has
+> spurred efforts to adapt these models for interpreting 3D scenes. 
 > However, the absence of large-scale 3D vision-language datasets 
 > has posed a significant obstacle. To address this issue, 
 > typical approaches focus on injecting 3D awareness into 
 > 2D LMMs by designing 3D input-level scene representations. 
 > This work provides a new perspective. We introduce 
 > reconstructive visual instruction tuning with 3D-awareness (Ross3D), 
-> which integrates 3D aware visual supervision 
+> which integrates 3D-aware visual supervision 
 > into the training procedure. Specifically, it incorporates 
 > cross-view and global-view reconstruction. The former requires 
 > reconstructing masked views by aggregating overlapping information
