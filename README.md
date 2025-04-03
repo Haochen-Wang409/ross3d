@@ -1,8 +1,8 @@
 # Ross3D: Reconstructive Visual Instruction Tuning with 3D-Awareness
 
-[[Project Page](https://haochen-wang409.github.io/ross3d/)] [[Model Zoo](https://huggingface.co/HaochenWang/)]
+[[Project Page](https://haochen-wang409.github.io/ross3d/)] [[Model Zoo (Coming Soon)](https://huggingface.co/HaochenWang/)]
 
-[**Ross3D: Reconstructive Visual Instruction Tuning with 3D-Awareness**](https://arxiv.org/pdf/2410.09575) by
+[**Ross3D: Reconstructive Visual Instruction Tuning with 3D-Awareness**](https://arxiv.org/pdf/2504.01901) by
 [Haochen Wang](https://haochen-wang409.github.io), 
 [Yucheng Zhao](https://scholar.google.com/citations?user=QWemjjQAAAAJ&hl=en),
 [Tiancai Wang](https://scholar.google.com/citations?user=YI0sRroAAAAJ&hl=en),
