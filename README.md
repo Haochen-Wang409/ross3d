@@ -32,7 +32,6 @@
 
 ![](./img/method.png)
 
-<<<<<<< HEAD
 ## Release
 
 - [2025/06/09] 🔥 All codes and checkpoints of Ross3D have been released. 
