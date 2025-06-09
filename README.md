@@ -114,6 +114,3 @@ If you find Ross useful for your research and applications, please cite using th
 
 - [Video-3D-LLM](https://github.com/LaVi-Lab/Video-3D-LLM/): the codebase we built upon and the dataset we utilized.
 - [ScanNet](https://github.com/ScanNet/ScanNet), [ScanRefer](https://github.com/daveredrum/ScanRefer), [Multi3DRefer](https://github.com/3dlg-hcvc/M3DRef-CLIP), [SQA3D](https://github.com/SilongYong/SQA3D), [ScanQA](https://github.com/ATR-DBI/ScanQA): the datasets we use.
-=======
-The code will be released soon!
->>>>>>> 5a6a7357c3b629a341e133290ae40292ffb2d538
