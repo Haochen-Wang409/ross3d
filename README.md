@@ -65,6 +65,8 @@ pip install flash-attn --no-build-isolation     # install flash attention
 
 Please follow this [instruction](https://github.com/LaVi-Lab/Video-3D-LLM/blob/main/scripts/3d/preprocessing/README.md) for detail.
 
+Processed BEV files can be found [here](https://huggingface.co/HaochenWang/ross3d-utils).
+
 
 ## Model Zoo
 
