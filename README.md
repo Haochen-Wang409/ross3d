@@ -34,6 +34,7 @@
 
 ## Release
 
+- [2025/06/26] 🔥🔥🔥 **Ross3D** has been accepted by **ICCV 2025**! See you in Hawaii. 🔥🔥🔥
 - [2025/06/09] 🔥 All codes and checkpoints of Ross3D have been released. 
 - [2024/04/02] 🔥 **Ross3D** has been released. Checkout the [paper](https://arxiv.org/pdf/2504.01901) for details.
 
